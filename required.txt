@@ -1,0 +1,5 @@
+Flask
+twilio
+python-dotenv
+requests
+gunicorn
