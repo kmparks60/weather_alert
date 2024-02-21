@@ -61,7 +61,7 @@ def handle_incoming_sms(body, from_number):
 			current_weather = weather_data['current']
 			daily_weather = weather_data['daily'][0]
 			temperature = current_weather['temp']
-			weather_description = current_weather['weather'][0]['description']
+			weather_description = current_weather['weather'][0]['description'].upper()
 
 			response_message = f"{user_input}: \n"
 			response_message += f"Weather: {weather_description}\n"
