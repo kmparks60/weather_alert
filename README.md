@@ -46,7 +46,7 @@ The Flask app will be running at `http://127.0.0.1:5000/`. Use Ngrok to expose t
 1. Log in to your Twilio account.
 2. Navigate to the "Phone Numbers" section.
 3. Click your toll-free number you would like to use.
-4. Scroll down to "A Message Comes In" webhook URL to point your Ngrok or deployment URL with '/sms' endpoint (e.g., `https://abc123.ngrok.io/sms`).
+4. Scroll down to "A Message Comes In" webhook URL to point your Ngrok or deployment URL with '/sms' endpoint (e.g., `https://dd91-69-117-101-224.ngrok-free.app/sms`).
 
 ### Usage
 
