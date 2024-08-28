@@ -1,5 +1,5 @@
 # Ignore the .env file
 .env
 
-# Ignore the spare_code.py file
-spare_code.py
+# Ignore the test_data.py file
+test_data
