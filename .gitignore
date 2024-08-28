@@ -2,4 +2,4 @@
 .env
 
 # Ignore the test_data.py file
-test_data
+test_data.py
